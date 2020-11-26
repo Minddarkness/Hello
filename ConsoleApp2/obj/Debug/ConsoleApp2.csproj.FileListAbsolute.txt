@@ -1,0 +1,7 @@
+C:\Programms\PMU\Hello\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Programms\PMU\Hello\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Programms\PMU\Hello\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Programms\PMU\Hello\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+C:\Programms\PMU\Hello\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Programms\PMU\Hello\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Programms\PMU\Hello\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
